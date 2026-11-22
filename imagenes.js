@@ -25,7 +25,7 @@ window.FOTOS_PERSONALIZADAS = {
   // Mývatn
   "dia2-myv": { url: "", encuadre: "50% 50%", credito: "", fuente: "" },
   // Egilsstaðir
-  "dia3-egil": { url: "https://gti.images.tshiftcdn.com/912924/x/0/the-studalagil-canyon-is-one-of-the-most-stunning-destinations-in-east-iceland-with-its-towering-basalt-columns-and-water-flowing-below.jpg?dpr=2&height=360&quality=65", encuadre: "50% 50%", credito: "", fuente: "" },
+  "dia3-egil": { url: "fotos/studalagil-canyon.jpg", encuadre: "50% 50%", credito: "", fuente: "" },
   // Jökulsárlón
   "dia4-jok": { url: "", encuadre: "50% 50%", credito: "", fuente: "" },
   // Vík í Mýrdal
